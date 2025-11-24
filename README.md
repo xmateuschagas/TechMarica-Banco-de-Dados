@@ -1,5 +1,3 @@
-# TechMarica-Banco-de-Dados
-
 # 🏭 TechMaricá - Sistema de Controle de Produção
 
 Projeto de Banco de Dados desenvolvido para a disciplina de Banco de dados relacional no curso de Engenharia de Software.
